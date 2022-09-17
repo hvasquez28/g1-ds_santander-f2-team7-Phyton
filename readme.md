@@ -1,2 +1,5 @@
-# g1-ds_santander-f2-team7-Phyton
-Second project of the Group 7 for the Bedu-Santander Data Science course. This project is for Python
+# Repositorio del Poyecto de Phyton del equipo 7
+
+Repositorio con los resultados obtenidos del trabajo realizado por el quipo 7 del cursso de Data Science del programa Bedu-Santander.
+
+Proyecto sobre manipulación de datos con Phyton. 
