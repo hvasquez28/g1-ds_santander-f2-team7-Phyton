@@ -1,8 +1,10 @@
-# Repositorio del Poyecto de Phyton del equipo 7
+# Repositorio del Poyecto de Phyton del equipo 6
 
-Repositorio con los resultados obtenidos del trabajo realizado por el quipo 7 del curso de Data Science del programa Bedu-Santander.
+Repositorio con los resultados obtenidos del trabajo realizado por el quipo 6 del curso de Data Science del programa Bedu-Santander.
 
-Proyecto sobre manipulación de datos con Phyton. 
+Proyecto sobre análisis de datos con Phyton. 
+
+
 
 En la carpeta Documents, se encuentra el enunciado del proyecto y las rubricas.
 
